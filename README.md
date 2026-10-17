@@ -5,6 +5,7 @@
 🏢 Product Engineer — AI/ML @ TCS  
 🎓 MCA & BCA — Uttaranchal University  
 💡 Interested in Generative AI, LLM applications, RAG, and backend engineering
+
 🌐 Portfolio: https://sunnygupta007.github.io/
 
 ---
