@@ -4,7 +4,8 @@
 🔭 Building practical AI applications, automation solutions, and full-stack products  
 🏢 Product Engineer — AI/ML @ TCS  
 🎓 MCA & BCA — Uttaranchal University  
-💡 Interested in Generative AI, LLM applications, RAG, and backend engineering  
+💡 Interested in Generative AI, LLM applications, RAG, and backend engineering
+🌐 Portfolio: https://sunnygupta007.github.io/
 
 ---
 
@@ -123,6 +124,7 @@
 
 Explore my repositories:  
 🌐 https://github.com/sunnygupta007
+🌐 Portfolio: https://sunnygupta007.github.io/
 
 ---
 
