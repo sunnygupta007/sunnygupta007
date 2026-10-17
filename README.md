@@ -26,10 +26,9 @@ My work spans backend development, full-stack applications, workflow automation,
 
 ### 🚀 Featured Projects
 
-- **[Agentic AI Payment Assistant](https://github.com/Sunny-Shani/agentic-ai-payment-assistant)** — A simulated payment assistant featuring agent orchestration, validation, fraud checks, approval workflows, analytics, and real-time updates.
-- **[SpendSmart](https://github.com/Sunny-Shani)** — Personal finance and budget analysis project.
-- **[Go with Solar](https://github.com/Sunny-Shani)** — Academic project focused on solar energy.
-- **[Discord Horoscope Bot](https://github.com/Sunny-Shani)** — Python-based Discord bot for horoscope queries.
+- **[Agentic AI Payment Assistant](https://github.com/sunnygupta007/agentic-ai-payment-assistant)** — A simulated payment assistant featuring agent orchestration, validation, fraud checks, approval workflows, analytics, and real-time updates.
+- **[SpendSmart](https://github.com/sunnygupta007/spendsmart)** — Personal finance and budget analysis project.
+- **[Discord Horoscope Bot](https://github.com/sunnygupta007/discord-horoscope-bot)** — Python-based Discord bot for horoscope queries.
 
 ### 🏆 Achievement
 
@@ -43,4 +42,4 @@ My work spans backend development, full-stack applications, workflow automation,
 ### 🤝 Connect with Me
 
 - **LinkedIn:** [Sunny Gupta](https://www.linkedin.com/in/sunny-gupta007)
-- **GitHub:** [Sunny Gupta](https://github.com/Sunny-Shani)
+- **GitHub:** [Sunny Gupta](https://github.com/sunnygupta007)
